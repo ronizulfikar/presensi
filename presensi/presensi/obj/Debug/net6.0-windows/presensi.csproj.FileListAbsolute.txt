@@ -1,0 +1,16 @@
+C:\Users\roniz\source\repos\presensi\presensi\bin\Debug\net6.0-windows\presensi.exe
+C:\Users\roniz\source\repos\presensi\presensi\bin\Debug\net6.0-windows\presensi.deps.json
+C:\Users\roniz\source\repos\presensi\presensi\bin\Debug\net6.0-windows\presensi.runtimeconfig.json
+C:\Users\roniz\source\repos\presensi\presensi\bin\Debug\net6.0-windows\presensi.dll
+C:\Users\roniz\source\repos\presensi\presensi\bin\Debug\net6.0-windows\presensi.pdb
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.Form1.resources
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.csproj.GenerateResource.cache
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.AssemblyInfoInputs.cache
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.AssemblyInfo.cs
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.csproj.CoreCompileInputs.cache
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.dll
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\refint\presensi.dll
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.pdb
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\presensi.genruntimeconfig.cache
+C:\Users\roniz\source\repos\presensi\presensi\obj\Debug\net6.0-windows\ref\presensi.dll
